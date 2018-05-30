@@ -121,3 +121,6 @@ tan(360-angle) = -tan (angle)
 * [https://stackoverflow.com/questions/17957325/how-do-i-install-a-current-version-of-opengl-for-windows-c](https://stackoverflow.com/questions/17957325/how-do-i-install-a-current-version-of-opengl-for-windows-c)
 * [https://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_Examples.html](https://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_Examples.html)
 * [https://en.wikipedia.org/wiki/Transformation_matrix](https://en.wikipedia.org/wiki/Transformation_matrix)
+
+#Links Repositeries
+https://github.com/FirmanAlnaufal/projeck-grafis.git
